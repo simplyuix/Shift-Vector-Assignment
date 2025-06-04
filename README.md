@@ -113,12 +113,9 @@ src/
 
 Built in a few days for the assessment. Focused on clean architecture and actually solving the problems rather than just making it work.
 
-##  Demo Video
+## Video
 
-<div align="center">
-  <video width="90%" controls muted autoplay loop style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <source src="./Aman_Singh_Technical_Assessment.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><em>Complete walkthrough: drag, connect, validate - see the pipeline editor in action</em></p>
-</div>
+
+![VectorShift Pipeline Editor Demo](Aman_Singh_Technical_Assessment-ezgif.com-speed.gif)
+
+*Click to download and watch: Complete pipeline editor walkthrough*
